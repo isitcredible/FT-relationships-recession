@@ -1,0 +1,6 @@
+file,viz_id,title,rows,output
+embed.html,21105496,"In the past, birth rates were falling mainly due to couples having fewer children. Today the decline is mainly due to fewer couples",50,ft_chart01_us_tfr_decomposition.csv
+embed(2).html,21104894,The decline of coupling has been steepest among people without a degree,128,ft_chart02_coupling_by_education.csv
+embed(3).html,21104476,Relationship rates among young adults are declining around the world,1177,ft_chart03_global_coupling.csv
+embed(4).html,21114523,Womenâs internet use has grown at different rates in different regions,12,ft_chart04_gsma_mobile_gender_gap.csv
+embed(5).html,21105097,Birth rates trace the decline in relationship formation in many countries,439,ft_chart05_coupling_tfr_indexed.csv
